@@ -6,7 +6,7 @@ function createxmlHttp(){
       xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
  createxmlHttp();
-var api = 'http://127.0.0.1:8000';
+var api = window.location.origin;//'http://127.0.0.1:8000' || 'https://qichao.github.io';
 var stateBox={
    navState:function(){
     stateBox.homeState();
