@@ -1,0 +1,22 @@
+[
+        {
+            name:'首页',
+            Url:'1',
+            image:'../image/timg.jpg'
+        },
+        {
+            name:'个人简介',
+            Url:'2',
+            image:'../image/timgs.jpg'
+        },
+        {
+            name:'工作经历',
+            Url:'3',
+            image:'../image/6524ad3533fa828bb3fc0f0efd1f4134960a5a1e.jpg'
+        },
+        {
+            name:'作品展示',
+            Url:'4',
+            image:'../image/4-141006102G2.jpg'
+        }
+        ]
