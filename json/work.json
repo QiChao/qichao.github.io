@@ -1,0 +1,40 @@
+{
+    'Structure':{
+        'name':'公司名称',
+            'Time':'工作时间',
+            'address':'北京市西城区',
+            'Website':'公司网站',
+            'WebsitePrompt':'网站状态',
+            'JobContent':'工作内容',
+            'works':[
+                {
+                    'name':'项目名称',
+                    'Time':'项目时间',
+                    'Url':'项目网址',
+                    'UrlPrompt':'项目网址状态',
+                    'webContent':'项目工作内容'
+                }
+                
+            ]
+    },
+    'work':[
+        {
+            'name':'北京拿货直通车网络科技有限公司',
+            'Time':'2015/3~~2015/4',
+            'address':'北京市西城区',
+            'Website':'http://www.nhztc.com/',
+            'WebsitePrompt':'(可能已经查不到了)',
+            'JobContent':'负责页面制作、优化、修改和协助设计页面。',
+            'works':'NHZTC'
+        },
+        {
+            'name':'靓车会',
+            'Time':'2015/3~~2015/4',
+            'address':'北京市西城区',
+            'Website':'http://www.nhztc.com/',
+            'WebsitePrompt':'(可能已经查不到了)',
+            'JobContent':'负责页面制作、优化、修改和协助设计页面。',
+            'works':'LCH'
+        }
+    ]
+}
